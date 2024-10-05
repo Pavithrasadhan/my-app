@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind utilities;
+
+/* globals.css */
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .textGradient {
+    background: linear-gradient(90deg, rgba(97, 202, 236, 1) 0%, rgba(130, 132, 247, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  h1, h2, h3, p {
+    margin: 0;
+    line-height: 1.5;
+  }
+  
+  a {
+    text-decoration: none;
+    
+  }
+.div1
+{
+  width: 100px;
+  float: left;
+}
+.div2{
+  width:100px;
+  float: right;
+}
+h1,ul,li{
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+  
+  
